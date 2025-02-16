@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/e-commerce-ShopGen/static/css/main.d255204a.css",
+    "main.js": "/e-commerce-ShopGen/static/js/main.58723df6.js",
+    "static/js/453.f28e9046.chunk.js": "/e-commerce-ShopGen/static/js/453.f28e9046.chunk.js",
+    "index.html": "/e-commerce-ShopGen/index.html",
+    "main.d255204a.css.map": "/e-commerce-ShopGen/static/css/main.d255204a.css.map",
+    "main.58723df6.js.map": "/e-commerce-ShopGen/static/js/main.58723df6.js.map",
+    "453.f28e9046.chunk.js.map": "/e-commerce-ShopGen/static/js/453.f28e9046.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d255204a.css",
+    "static/js/main.58723df6.js"
+  ]
+}
